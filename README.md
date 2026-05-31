@@ -19,13 +19,14 @@ This is my current personal GitHub. It isn't a complete picture of what I work o
 #### Current public projects
 
 - 🛠 **[req2gherkin](https://github.com/Toska30/req2gherkin)** — small CLI that turns prose requirements into Gherkin scenarios via Claude. Scaffolds the testing conversation, doesn't replace it.
+- 🤖 **[telemachus-mattermost](https://github.com/Toska30/telemachus-mattermost)** — Mattermost connector for the [Telemachus](https://github.com/dadawg/telemachus) AI agent. Self-hosted AI chat for teams that can't put their data in Slack.
 - 📋 **[regulated-software-playbook](https://github.com/Toska30/regulated-software-playbook)** — Definition of Done, PR templates and review checklist for teams shipping into regulated contexts.
 - 📖 **[engineering-leadership-reading](https://github.com/Toska30/engineering-leadership-reading)** — curated reading list. AI in engineering teams + management in regulated software.
 - 🌐 **[toska30.github.io](https://toska30.github.io)** — personal site.
 
 #### Background
 
-Developer background: React, React Native, JavaScript. PMI Agile Certified Practitioner. Two years as line manager at Blue Cromos. Earlier: junior developer at Lufthansa Industry Solutions in Hamburg. Languages: Swedish, English, German, Italian (all fluent), Spanish (conversational).
+Developer background: React, React Native, JavaScript, TypeScript. PMI Agile Certified Practitioner. Two years as line manager at Blue Cromos. Earlier: junior developer at Lufthansa Industry Solutions in Hamburg. Languages: Swedish, English, German, Italian (all fluent), Spanish (conversational).
 
 #### Contact
 
