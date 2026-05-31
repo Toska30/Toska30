@@ -8,9 +8,13 @@ I lead software teams in regulated environments — most recently two years as l
 
 Since April 2025 I freelance, focused on helping organizations integrate AI-driven practices into engineering teams — LLM APIs, local models, and workflow automation that reduces administrative friction without removing engineers from the conversations they need to be in.
 
-#### Why GitHub looks thin
+#### About this profile
 
-My public surface here doesn't reflect day-to-day work — code I touch lives in client and employer environments. The older repos are from my YH education (2021–2022) and remain here as reference, not representation. The repos below are the current ones.
+This is my current personal GitHub. It isn't a complete picture of what I work on:
+
+- Most of the engineering work I do sits in **employer and client organizations** — Blue Cromos and freelance client repos — and isn't public under this handle.
+- Older personal work from earlier in my career lives on accounts I no longer actively maintain (and that I lost local copies of when my laptops failed last year).
+- What's below is what I'm comfortable sharing publicly today.
 
 #### Current public projects
 
